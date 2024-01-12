@@ -1,0 +1,9 @@
+Tasks remaining:
+1. When Next button is pressed, make sure it checks whether every input is filled or not.
+2. When Submit button is pressed, it will change its path and show the overall result on the screen.
+3. Once Submit has been pressed and the info shown on screen, there will be 3 buttons: (A) Edit, (B) Delete, (C) Add More in DisplayMedicalCard.tsx
+4. Add More button will redirect us to a form specially made for creators.
+5. Will have to look to store the values of Yes/No questions on the form.
+6. Using Zod as a checker for the input fields.
+7. Use created as a prop in both DisplayMedicalCard.tsx & CreateCard.tsx as: (A)created=false, then CreateCard.tsx and (B)created=true, then DisplayMedicalCard.tsx.
+8. Similar process in Medical card too.
